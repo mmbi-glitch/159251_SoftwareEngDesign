@@ -4,3 +4,6 @@
 [submodule "tutorials/tut2_159251"]
 	path = tutorials/tut2_159251
 	url = https://github.com/mmbi-glitch/tut2_159251
+[submodule "tutorials/tut4_159251"]
+	path = tutorials/tut4_159251
+	url = https://github.com/mmbi-glitch/tut4_159251
